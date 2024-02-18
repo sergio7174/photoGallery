@@ -72,11 +72,10 @@ $ npm start (to start the server), or nodemon server
 
 ##  Key Features:
 
-- Admin Area
-- Add/Edit/Delete Products, Users and Staff.
-- User Authenication
-- Admin  Authenication
-- See Product List
+- Add/Edit/Delete Photos.
+- User Authenication.
+- Create Photo Albums.
+- Add photos to each Album.
 
 
 ##  Technologies used
