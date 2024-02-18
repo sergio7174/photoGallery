@@ -42,7 +42,7 @@ In the second terminal
 # --- Terminal ---
 
 $ npm install (to install server-side dependencies)
-$ npm start (to start the server), or nodemon server
+$ npm start (to start the server), or nodemon index
 
 ```
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
