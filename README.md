@@ -1,4 +1,4 @@
-<h1 align ="center" > 🚪🛏️ PHOTO GALLERY MEAN APLICATION </h1>
+<h1 align ="center" > 📸+🤨 PHOTO GALLERY MEAN APLICATION </h1>
 <h4  align ="center"> 
 Fullstack open source application, dynamic PHOTO GALLERY website(MEAN STACK)</h4>
  <h4  align ="center"> Made with Angular(14) MongoDB, Express, Nodejs  </h4>
@@ -62,13 +62,8 @@ $ npm start (to start the server), or nodemon server
 ##  Screenshots:
 📸
 <br>
-<img src="./PROJECTIMAGES/IMAGE01.jpg" alt="project screenshot01" />
-<img src="./PROJECTIMAGES/IMAGE02.jpg" alt="project screenshot02" />
-<img src="./PROJECTIMAGES/IMAGE03.jpg" alt="project screenshot03" />
-<img src="./PROJECTIMAGES/IMAGE04.jpg" alt="project screenshot04" />
-<img src="./PROJECTIMAGES/IMAGE05.jpg" alt="project screenshot05" />
-<img src="./PROJECTIMAGES/IMAGE06.jpg" alt="project screenshot06" />
-<img src="./PROJECTIMAGES/IMAGE07.jpg" alt="project screenshot07" />
+<img src="./Snapshots01/projectimages/image00.jpg" alt="project screenshot00" />
+
 <br>
 
 ##  Key Features:
